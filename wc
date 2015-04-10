@@ -1,0 +1,12 @@
+wc
+
+  The wc (word count) command returns 3 numbers from a file:
+    - a number of lines in a file
+    - number of words in a file
+    - count of characters from a file
+    
+  
+  Example:
+  
+    wc longtext.txt
+  
