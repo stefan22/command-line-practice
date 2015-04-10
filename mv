@@ -1,0 +1,21 @@
+mv
+  
+  It moves a file from one location to another
+  
+  It takes two parameters:
+  
+    - file to be moved and its location
+    - new path to move to
+    
+  
+  mv can also be used to rename a file
+  
+  Example:
+  
+    mv myFile ../myFile
+    
+      or
+    
+    mv myFile newNameFile
+    
+    
