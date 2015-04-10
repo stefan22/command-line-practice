@@ -1,0 +1,19 @@
+grep
+
+  Does a search inside of a file or a group of files.
+  
+  It takes two parameters:
+  
+    - What you want to search for
+    - What file(s) you want to search through
+    
+  
+  Example:
+  
+    grep dummy *.txt      //It searches for the word "dummy" inside all text files
+    
+    
+    Using grep with find:
+    
+      find ~ -name "*.txt" -print | grep dummy      //finds all text files and prints only those with "dummy" in it.
+    
